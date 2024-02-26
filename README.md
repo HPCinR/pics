@@ -1,6 +1,7 @@
 # Common files for several HPC-R docs
 
-First commit and push files here.
+First commit and push selected files here.
+
 Then in the other doc using this submodule:
 ` git submodule update --remote` 
 

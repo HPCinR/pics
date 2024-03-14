@@ -6,4 +6,4 @@ Then in the other doc using this submodule:
 ` git submodule update --remote` 
 
 When configuring a new project to use this submodule, use
-`git submodule add git@github.com:go-ski/pics.git pics`
+`git submodule add git@github.com:HPCinR/pics.git pics`
